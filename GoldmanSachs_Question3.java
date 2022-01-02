@@ -1,4 +1,4 @@
-Submission Link: https://practice.geeksforgeeks.org/viewSol.php?subId=27acdc285b7b1b8e5e7182164b47d92d&pid=703804&user=gopalsays108
+//Submission Link: https://practice.geeksforgeeks.org/viewSol.php?subId=27acdc285b7b1b8e5e7182164b47d92d&pid=703804&user=gopalsays108
 
 class Solution {
     
@@ -27,6 +27,5 @@ class Solution {
         }
         
         return result;
-        
     }
 }
