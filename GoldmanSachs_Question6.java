@@ -1,3 +1,4 @@
+//Link: https://leetcode.com/submissions/detail/612251540/
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
         
