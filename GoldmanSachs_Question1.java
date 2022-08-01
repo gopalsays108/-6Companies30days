@@ -2,7 +2,7 @@
 
 class Solution {
     public List<List<String>> Anagrams(String[]  string_list ){
-        // Code here
+        // Code here 
         
         HashMap<HashMap<Character, Integer>, ArrayList<String>> bMap = new HashMap<>();
         
