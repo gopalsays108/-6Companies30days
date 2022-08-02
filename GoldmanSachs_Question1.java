@@ -10,7 +10,7 @@ class Solution {
             HashMap<Character, Integer> fMap = new HashMap<>();
             
             for(int i =0; i<str.length(); i++){
-                char ch = str.charAt(i);
+                char ch = str.charAt(i);  
                 fMap.put(ch, fMap.getOrDefault(ch,0) + 1);
             }
             
